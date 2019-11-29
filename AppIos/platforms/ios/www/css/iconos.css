@@ -1,0 +1,239 @@
+
+/**************************************************************************/
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+    font-family: Flaticon;
+    font-size: 14px;
+    font-style: normal;
+    top: 1px;
+    position: relative;
+}
+
+
+
+.icon-icoConvenios:before {
+  content: "\e923";
+  color: #fff;
+}
+.icon-icoCursoDiploma:before {
+  content: "\e921";
+  color: #fff;
+}
+.icon-icoCertificacion:before {
+  content: "\e922";
+  color: #fff;
+}
+.icon-icoEditar:before {
+  content: "\e920";
+  color: #9b9b9b;
+}
+.icon-icoAceptar:before {
+  content: "\e91f";
+  color: #fff;
+}
+.icon-icoCitas:before {
+  content: "\e91e";
+  color: #9b9b9b;
+}
+.icon-icoSalir:before {
+  content: "\e91d";
+  color: #9b9b9b;
+}
+.icon-icoCerrar:before {
+  content: "\e91c";
+  color: #fff;
+}
+.icon-icoFavoritos:before {
+  content: "\1f319";
+  color: #9b9b9b;
+}
+.icon-icoAgenda:before {
+  content: "\e900";
+  color: #9b9b9b;
+}
+.icon-icoAgregarContacto:before {
+  content: "\e901";
+  color: #9b9b9b;
+}
+.icon-icoAgregarMiAgenda:before {
+  content: "\e902";
+  color: #fff;
+}
+.icon-icoBanio:before {
+  content: "\e903";
+  color: #fff;
+}
+.icon-icoBoletin:before {
+  content: "\e904";
+  color: #fff;
+}
+.icon-icoCama:before {
+  content: "\e905";
+  color: #fff;
+}
+.icon-icoCarro:before {
+  content: "\e906";
+  color: #fff;
+}
+.icon-icoCompartir:before {
+  content: "\e907";
+  color: #fff;
+}
+.icon-icoContactar:before {
+  content: "\e908";
+  color: #fff;
+}
+.icon-icoCursos:before {
+  content: "\e909";
+  color: #9b9b9b;
+}
+.icon-icoEventos:before {
+  content: "\e90a";
+  color: #9b9b9b;
+}
+.icon-icoFavorito:before {
+  content: "\e90b";
+  color: #fff;
+}
+.icon-icoFiltro:before {
+  content: "\e90c";
+  color: #9b9b9b;
+}
+.icon-icoGalerias:before {
+  content: "\e90d";
+  color: #9b9b9b;
+}
+.icon-icoHome:before {
+  content: "\e90e";
+  color: #9b9b9b;
+}
+.icon-icoMapa:before {
+  content: "\e90f";
+  color: #9b9b9b;
+}
+.icon-icoMedidas:before {
+  content: "\e910";
+  color: #fff;
+}
+.icon-icoMensajes:before {
+  content: "\e911";
+  color: #9b9b9b;
+}
+.icon-icoMisPropiedades:before {
+  content: "\e912";
+  color: #fff;
+}
+.icon-icoMosaico:before {
+  content: "\e913";
+  color: #9b9b9b;
+}
+.icon-icoNext:before {
+  content: "\e914";
+  color: #fff;
+}
+.icon-icoNoticias:before {
+  content: "\e915";
+  color: #9b9b9b;
+}
+.icon-icoPrev:before {
+  content: "\e916";
+}
+.icon-icoPropiedades:before {
+  content: "\e917";
+  color: #9b9b9b;
+}
+.icon-icoRegresar:before {
+  content: "\e918";
+  color: #9b9b9b;
+}
+.icon-icoSolicitarCitar:before {
+  content: "\e919";
+  color: #fff;
+}
+.icon-icoSubir:before {
+  content: "\e91a";
+  color: #fff;
+}
+.icon-icoVerFicha:before {
+  content: "\e91b";
+  color: #fff;
+}
+
+.flaticon-lista:before { content: "\f100"; }
+
+/************************************************************************************************/
+
+[class^="icoPropiedad--"], [class*=" icoPropiedad--"] 
+{
+	display: inline-block;
+	width: 11px;
+	height: 11px;
+    background-repeat: no-repeat !important;
+    background-size: 100% !important;
+    margin-right: 8px;
+}
+
+.icoPropiedad--Casa
+{
+	background-image: url(../images/icoCasaPropiedad.png) !important;
+}
+
+.icoPropiedad--PrecioRenta
+{
+	background: url(../images/icoPrecioRentaPropiedad.png) no-repeat;
+}
+
+.icoPropiedad--Superficie
+{
+	background: url(../images/icoSuperficiePropiedad.png) no-repeat;
+}
+
+.icoPropiedad--Recamaras
+{
+	background: url(../images/icoRecamarasPropiedad.png) no-repeat;
+}
+
+.icoPropiedad--Banio
+{
+	background: url(../images/icoBanoPropiedad.png) no-repeat;
+}
+
+.icoPropiedad--MedioBanio
+{
+	background: url(../images/icoBanoPropiedad.png) no-repeat;
+}
+
+.icoPropiedad--Estacionamiento
+{
+	background: url(../images/icoEstaciominamientoPropiedad.png) no-repeat;
+}
+
+.icoPropiedad--Antiguedad
+{
+	background: url(../images/icoAntiguedadPropiedad.png) no-repeat;
+}

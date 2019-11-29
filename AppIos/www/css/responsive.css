@@ -1,0 +1,390 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+@media only screen and (min-width: 701px)
+{
+	.Home-TitleListBoletin
+	{
+		font-size: 22px;
+	}
+
+	.Home-ItemCategoriaListBoletin {
+		font-size: 12px;
+	}
+	
+	.Home-LinkListPropiedad3 div h4 {
+		font-size: 17px;
+	}
+	
+	.Home-LinkListPropiedad3 div p{
+		font-size: 15px;
+	}
+	
+	.Home-LinkListPropiedad3 div ul li {
+    	font-size: 15px;
+	}
+	
+	.Home-LinkListPropiedad2 div ul li {
+    	font-size: 15px;
+	}
+
+	.Propiedades-ListMenu {
+		width: 700px;
+	}
+	
+	.Propiedades-ListMenu li {
+		margin-right: 40px;
+	}
+
+	.FavoritosPropiedades-TitleList {
+		font-size: 17px;
+	}
+	
+	.FavoritosPropiedades-PrecioList {
+		font-size: 15px;
+	}
+	
+	.FavoritosPropiedades-LinkList ul li {
+    	font-size: 15px;
+	}
+	
+	.FavoritosPropiedades-LinkList {
+		padding-bottom: 15px;
+	}
+	
+	.FiltrosPropiedades-Title {
+		font-size: 18px;
+	}
+
+	.FiltrosPropiedades-Subtitle {
+		font-size: 16px;
+	}
+
+	label.lbCheckbox {
+		font-size: 15px;
+	}
+
+	.FiltrosPropiedades-FiltrarPropiedades {
+		font-size: 15px;
+	}
+
+	.FiltrosPropiedades-ListCaracteristicas input {
+		width: 42px;
+	}
+
+	label.lbRadio2 {
+		font-size: 15px;
+		margin-right: 10px;
+	}
+
+	label.lbRadio {
+		font-size: 15px;
+	}
+
+	.FiltrosPropiedades-ColCaracteristica label {
+		font-size: 15px;
+	}
+
+	.FiltrosPropiedades-Btn {
+		height: 32px;
+		font-size: 16px;
+		padding-top: 10px;
+	}
+	
+	.Propiedades-MisPropiedades {
+		height: 36px;
+	}
+
+	.Propiedades-CenterMisPropiedades{
+		font-size: 15px;
+		margin-top: 7px;
+	}
+
+	.CursoNoticia-Title {
+		font-size: 22px;
+	}
+
+	.PostNoticia-Center {
+		font-size: 17px;
+	}
+
+	.BoletinesNoticias-LinkList h3 {
+		font-size: 22px;
+	}
+
+	.BoletinesNoticias-LinkList2 h3 {
+		font-size: 18px;
+	}
+
+	.BoletinesNoticias-LinkList3 h3 {
+		font-size: 16px;
+	}
+
+	.BoletinesNoticias-LinkList4 h3 {
+		font-size: 15px;
+	}
+
+	.GaleriasNoticias-LinkList h3 {
+		font-size: 22px;
+	}
+
+	.BoletinesNoticias-List time {
+		font-size: 14px;
+	}
+
+	.GaleriasNoticias-LinkList2 h3 {
+		font-size: 17px;
+	}
+
+	.GaleriasNoticias-LinkList3 h3 {
+		font-size: 17px;
+	}
+
+	.GaleriasNoticias-Info {
+		width: 80%;
+	}
+
+	.GaleriasNoticias-LinkList4 h3 {
+		font-size: 16px;
+	}
+
+	.CursosNoticias-TitleList {
+		font-size: 16px;
+	}
+
+	.CursosNoticias-InfoList {
+		font-size: 14px;
+	}
+
+	.Notificaciones-ItemList {
+		font-size: 16px;
+	}
+
+	.Notificaciones-FechaItemList {
+		font-size: 14px;
+	}
+
+	.DetallePropiedades-Title {
+		font-size: 20px;
+	}
+	
+	.DetallePropiedades-Precio
+	{
+		font-size: 16px;
+	}
+
+	.DetallePropiedades-ContainerInfo {
+		font-size: 17px;
+	}
+
+	.DetallePropiedades-CenterBarraInferior {
+		font-size: 15px;
+	}
+
+	.DetallePropiedades-CenterBarraInferior a span {
+		font-size: 15px;
+	}
+
+	.PostNoticia-Title {
+		font-size: 21px;
+	}
+
+	.PostNoticia-TituloInterior {
+		font-size: 16px;
+	}
+
+	.PostNoticia-Compartir span:before {
+		font-size: 18px;
+	}
+
+	.CursoNoticia-CompartirAgregarVer {
+		height: 31px;
+	}
+
+	.CursoNoticia-CenterCompartirAgregarVer a span {
+		font-size: 20px;
+	}
+
+	.CursoNoticia-Compartir span:before {
+		font-size: 20px;
+	}
+
+	.Ampi-ListExpresidentes li {
+		min-height: 73px;
+	}
+
+	.Ampi-ListExpresidentes figure img {
+		width: 67px;
+		height: 67px;
+	}
+
+	.Ampi-ListExpresidentes div {
+		margin-top: 10px;
+		padding-left: 80px;
+	}
+	
+	.Ampi-ListExpresidentes h3 {
+		font-size: 17px;
+	}
+
+	.Ampi-ListExpresidentes span {
+		font-size: 16px;
+	}
+
+	.Ampi-ItemListBeneficio {
+		font-size: 16px;
+	}
+
+	.CompletaTuRegistro-Center {
+		font-size: 16px;
+	}
+
+	.CompletaTuRegistro-FilaSexos label.lbRadio2 {
+		font-size: 16px;
+	}
+
+	.CompletaTuRegistro-FilaSexos label.lbCheckbox {
+		font-size: 16px;
+	}
+
+	.CompletaTuRegistro-txtAdjuntar {
+		font-size: 16px;
+	}
+
+	.CompletaTuRegistro-BtnAdjuntar {
+		width: 168px;
+		height: 26px;
+		padding-top: 6px;
+		font-size: 15px;
+	}
+}
+
+@media only screen and (max-width: 700px)
+{	
+	.FavoritosPropiedades-TitleList {
+		font-size: 15px;
+	}
+	
+	.FavoritosPropiedades-PrecioList {
+		font-size: 13px;
+	}
+	
+	.FavoritosPropiedades-LinkList ul li {
+    	font-size: 13px;
+	}
+	
+	.FavoritosPropiedades-LinkList {
+		padding-bottom: 15px;
+	}
+	
+	.Home-TitleListBoletin
+	{
+		font-size: 20px;
+	}
+}
+
+@media only screen and (max-width: 600px)
+{
+	.Home-TitleListBoletin
+	{
+		font-size: 15px;
+	}
+}
+
+@media only screen and (max-width: 500px)
+{
+	/*.Home-TitleListBoletin {
+		font-size: 13px;
+	}*/
+}
+
+@media only screen and (max-width: 430px)
+{
+	/*.Home-TitleListBoletin {
+		font-size: 11px;
+	}*/
+}
+
+@media only screen and (max-width: 370px)
+{
+	/*.Home-TitleListBoletin {
+		font-size: 10px;
+	}*/
+}
+
+@media only screen and (min-width: 550px)
+{
+	.Home-TitleListProximoEvento {
+		font-size: 16px;
+	}
+
+	.Home-InfoListProximoEvento {
+		font-size: 15px;
+	}
+
+	.Home-FechaListProximoEvento {
+		font-size: 26px;
+		line-height: 24px;
+	}
+
+	.Home-FechaListProximoEvento span {
+		font-size: 15px;
+	}
+
+}
+
+@media only screen and (max-width: 386px)
+{
+	.Mensajes .Propiedades-ListMenu {
+		width: 100%;
+	}
+
+	.Mensajes  .Propiedades-ItemListMenu {
+		font-size: 11px;
+	}
+}
+
+@media only screen and (max-width: 380px)
+{
+	.Home-LinkListPropiedad3 div h4 {
+		font-size: 13px;
+	}
+}
+
+@media only screen and (max-width: 367px)
+{
+	.Notificaciones .Propiedades-ListMenu {
+		width: 100%;
+	}
+	
+	.Notificaciones .Propiedades-ItemListMenu {
+		width: 65px;
+		font-size: 11px;
+	}
+}
+
+@media only screen and (max-width: 350px)
+{
+	.Mensajes  .Propiedades-ItemListMenu {
+		font-size: 10px;
+	}
+}
+
+@media only screen and (min-height: 570px)
+{
+	.ui-page
+	{
+		height: 100% !important;
+		-webkit-min-height: fit-content !important;
+		-o-min-height: fit-content !important;
+		-moz-min-height: fit-content !important;
+		-ms-min-height: fit-content !important;
+		min-height: fit-content !important;
+	}
+	
+	/*#Acompaniante1.ui-page, #Acompaniante2.ui-page, #Acompaniante3.ui-page #Programa2.ui-page ,#Programa3.ui-page, #Hospedaje1.ui-page, #Hospedaje2.ui-page, #Hospedaje3.ui-page, #Hospedaje4.ui-page, #Hospedaje5.ui-page
+	{
+		height: auto !important;
+	}*/
+}

@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-android-play-services-gradle-release",
+        "scope": null,
+        "escapedName": "cordova-android-play-services-gradle-release",
+        "name": "cordova-android-play-services-gradle-release",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/gomultimedios/ampiVillahermosa"
+    ]
+  ],
+  "_from": "cordova-android-play-services-gradle-release@latest",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-android-play-services-gradle-release@4.0.0",
+  "_inCache": true,
+  "_location": "/cordova-android-play-services-gradle-release",
+  "_nodeVersion": "10.15.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-android-play-services-gradle-release_4.0.0_1561485945866_0.4125815421766448"
+  },
+  "_npmUser": {
+    "name": "davealden",
+    "email": "dave@workingedge.co.uk"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-android-play-services-gradle-release",
+    "scope": null,
+    "escapedName": "cordova-android-play-services-gradle-release",
+    "name": "cordova-android-play-services-gradle-release",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-android-play-services-gradle-release/-/cordova-android-play-services-gradle-release-4.0.0.tgz",
+  "_shasum": "47d6e5f22a125e98118fb7428cc834a5f05f38be",
+  "_shrinkwrap": null,
+  "_spec": "cordova-android-play-services-gradle-release",
+  "_where": "/Users/gomultimedios/ampiVillahermosa",
+  "author": {
+    "name": "Dave Alden"
+  },
+  "dependencies": {
+    "q": "^1.4.1",
+    "semver": "5.6.0",
+    "xml2js": "^0.4.16"
+  },
+  "description": "Cordova/Phonegap plugin for Android to align versions of the Play Services library components specified by other plugins to a specific version",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-HFckSz7tTlz6QHcyBKaCiybWbbIXBKaZ/9MZAI/aJ2GK4Sis008ycHSPAcPKyYoJPTDUhBZ/SVoqxlBRQjhgtg==",
+    "shasum": "47d6e5f22a125e98118fb7428cc834a5f05f38be",
+    "tarball": "https://registry.npmjs.org/cordova-android-play-services-gradle-release/-/cordova-android-play-services-gradle-release-4.0.0.tgz",
+    "fileCount": 6,
+    "unpackedSize": 27417,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdEmJ7CRA9TVsSAnZWagAAKNUP/iP4TrIyjuae4Omnu+mc\nmyjhRG7Rm0l0HsTCWFu5kmHhaOYMFCy8B1/QUk7/L+sGGmF0Wnik44o8J8FN\nkLAhd+zRnLWEv2Xb2OjJY3ewXGckugR8QuhKUbF4PUjUVYDlNsbgLWSh5r6Q\ncHe6NEwQAd9ce3Blt/KkBet3hdyNVoI8d1OCGoAPghjCHRF8z2fp4TE1OqI/\nNzC8eIAqmlz3pi9WSKf/iUMuJIRA2teOd6cBhuoYq3VQPjEVFY/08u+YCEd8\n7L8Czwz+6hfI/m8E8i1NS4eJ1Uvc65OSS8pkbI1soAO7uGbSOt+NuW65YkBW\n4x7tZkbpc8UDCm8hqyIr7VC2SodjSIgwUlhKBP1RxEaWDcq2ihGMDq5LUHKg\nYeJ/tUJWleul9sJzJ0HHYKEHWDGez+1gdok9mLV99pR1eHI4aq+pzqWbvOVC\nhYNXusr2Qi8QVFh2NWmwN7QbtM8302DMEcfyCrwVvgN4jWyDVXDRKr4YlQVo\nrmzmJRHVUcmYCaXh8CfX1UCgjCyyckULj7XLzQYLjZYVGc5NSabnFHb7qQKQ\nqJxdP3x9RejRPyYgQGbzO149dYxsEorpxgd6OZrnp/f6NQYNJQZK57bY5/hO\nyilO2V9rCO5qWkC56Ww028iTqKA7LatjUZjJP4agj3ieIT2hhgt/1hzLWdhI\nOMgX\r\n=lXJH\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "6c5c423dc99a5c6b5f3977e729419bc3c38202a7",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "davealden",
+      "email": "dave@workingedge.co.uk"
+    }
+  ],
+  "name": "cordova-android-play-services-gradle-release",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "4.0.0"
+}
